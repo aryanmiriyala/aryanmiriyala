@@ -2,6 +2,10 @@
   <img src="assets/banner.svg" alt="Aryan Miriyala banner" width="100%" />
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=1200&color=0F766E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aryan+Miriyala.;Software+and+data+engineer.;I+build+calm%2C+reliable+systems." alt="Typing header" />
+</div>
+
 # Aryan Miriyala
 Software and data engineer building web products and data pipelines.
 
@@ -58,6 +62,10 @@ Software and data engineer building web products and data pipelines.
   <img src="https://img.shields.io/badge/PySpark-0f766e?style=flat&logo=apachespark&logoColor=ffffff&labelColor=0f172a" alt="PySpark badge" />
 </p>
 
+## Links
+- Website: https://aryanmiriyala.vercel.app
+- Resume: resume/resume.pdf
+
 ## Skills
 - Languages: Python, TypeScript, JavaScript, SQL, C++, Rust
 - Web + mobile: React, Next.js, Angular, Node.js, React Native, Expo
@@ -69,12 +77,7 @@ Software and data engineer building web products and data pipelines.
 - M.S. in Computer Science (Software Engineering), BGSU — Aug 2024 - May 2026 (Expected), GPA 4.00
 - B.S. in Computer Science, BGSU — Jan 2021 - Apr 2024, GPA 4.00
 
-## Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanmiriyala&show_icons=true&bg_color=e6dccf&title_color=0f172a&text_color=1f2937&icon_color=0f766e&border_color=ddceb8" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmiriyala&layout=compact&bg_color=e6dccf&title_color=0f172a&text_color=1f2937&border_color=ddceb8" alt="Top languages" />
-</p>
-
+## GitHub
 <p>
   <img src="https://raw.githubusercontent.com/aryanmiriyala/aryanmiriyala/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
