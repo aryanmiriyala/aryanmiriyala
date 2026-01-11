@@ -15,27 +15,15 @@ Software and data engineer.
       <h3>About</h3>
       <p><strong>Focus</strong><br />Software, data engineering, applied AI.</p>
       <p><strong>Now</strong><br />M.S. in Computer Science (Software Engineering), BGSU.</p>
-      <p><strong>Interests</strong><br />RAG systems, scalable data platforms, security.</p>
     </td>
     <td valign="top" width="40%">
       <h3>Contact</h3>
-      <p><strong>Email</strong><br /><a href="mailto:aryanmiriyala@gmail.com">aryanmiriyala@gmail.com</a></p>
-      <p><strong>Website</strong><br /><a href="https://aryanmiriyala.vercel.app">aryanmiriyala.vercel.app</a></p>
-      <p><strong>LinkedIn</strong><br /><a href="https://www.linkedin.com/in/aryan-miriyala/">linkedin.com/in/aryan-miriyala</a></p>
+      <p><a href="mailto:aryanmiriyala@gmail.com">aryanmiriyala@gmail.com</a></p>
+      <p><a href="https://aryanmiriyala.vercel.app">aryanmiriyala.vercel.app</a></p>
+      <p><a href="https://www.linkedin.com/in/aryan-miriyala/">linkedin.com/in/aryan-miriyala</a></p>
     </td>
   </tr>
 </table>
-
-## Experience
-- Data Engineering Intern, AAIS (2025)
-- Software Engineering Intern, AAIS (2023–2024)
-- Software Engineering Intern, Alliance for Paired Kidney Donation (2022)
-
-## Projects
-- FalconGraph Search (RAG + graph)
-- DreamScape (mobile microlearning)
-- Travel & Health Advisor (map + AI)
-- RocketGrades (LMS + AI)
 
 ## Toolbox
 <p>
@@ -54,21 +42,7 @@ Software and data engineer.
   <img src="https://img.shields.io/badge/PySpark-0f766e?style=flat&logo=apachespark&logoColor=ffffff&labelColor=0f172a" alt="PySpark badge" />
 </p>
 
-## Links
-- Website: https://aryanmiriyala.vercel.app
-- Resume: resume/resume.pdf
-
-## Skills
-- Languages: Python, TypeScript, JavaScript, SQL
-- Web + mobile: React, Next.js, Node.js, React Native
-- Data + AI: PySpark, AWS Glue, Pandas, PyTorch
-- Cloud + DB: AWS, PostgreSQL, MongoDB
-
-## Education
-- M.S. Computer Science, BGSU (Expected 2026)
-- B.S. Computer Science, BGSU (2024)
-
 ## GitHub
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/aryanmiriyala/aryanmiriyala/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
