@@ -29,11 +29,3 @@ Worked as a software engineer and a data engineer.
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,sql,cpp,c,rust,dart,swift,kotlin,react,nextjs,angular,nodejs,express,reactnative,flutter,tailwind,auth0,aws,postgres,mongodb,mysql,oracle,git,docker&theme=light" alt="Skill icons" />
 </p>
-
-## GitHub
-<a href="https://github.com/jstrieb/github-stats">
-  <img src="https://raw.githubusercontent.com/aryanmiriyala/aryanmiriyala/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview" />
-  <img src="https://raw.githubusercontent.com/aryanmiriyala/aryanmiriyala/main/generated/languages.svg#gh-dark-mode-only" alt="GitHub stats languages" />
-  <img src="https://raw.githubusercontent.com/aryanmiriyala/aryanmiriyala/main/generated/overview.svg#gh-light-mode-only" alt="GitHub stats overview" />
-  <img src="https://raw.githubusercontent.com/aryanmiriyala/aryanmiriyala/main/generated/languages.svg#gh-light-mode-only" alt="GitHub stats languages" />
-</a>
