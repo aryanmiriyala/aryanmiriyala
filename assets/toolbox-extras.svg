@@ -1,0 +1,35 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .chip { fill: rgba(255, 255, 255, 0.7); stroke: rgba(15, 23, 42, 0.12); }
+      .text { font-family: "Georgia", "Times New Roman", serif; font-size: 16px; fill: #1f2937; }
+    </style>
+  </defs>
+  <rect width="1200" height="120" fill="transparent" />
+  <g transform="translate(60,18)">
+    <rect class="chip" x="0" y="0" rx="18" ry="18" width="150" height="36" />
+    <text class="text" x="18" y="24">AWS Glue</text>
+    <rect class="chip" x="170" y="0" rx="18" ry="18" width="120" height="36" />
+    <text class="text" x="190" y="24">Impala</text>
+    <rect class="chip" x="310" y="0" rx="18" ry="18" width="100" height="36" />
+    <text class="text" x="330" y="24">S3</text>
+    <rect class="chip" x="430" y="0" rx="18" ry="18" width="130" height="36" />
+    <text class="text" x="448" y="24">Lambda</text>
+    <rect class="chip" x="580" y="0" rx="18" ry="18" width="170" height="36" />
+    <text class="text" x="598" y="24">DaisyUI</text>
+    <rect class="chip" x="770" y="0" rx="18" ry="18" width="170" height="36" />
+    <text class="text" x="788" y="24">Semarchy xDM</text>
+    <rect class="chip" x="960" y="0" rx="18" ry="18" width="170" height="36" />
+    <text class="text" x="978" y="24">LangChain</text>
+  </g>
+  <g transform="translate(160,66)">
+    <rect class="chip" x="0" y="0" rx="18" ry="18" width="190" height="36" />
+    <text class="text" x="18" y="24">SentenceTransformers</text>
+    <rect class="chip" x="210" y="0" rx="18" ry="18" width="160" height="36" />
+    <text class="text" x="228" y="24">OpenAI API</text>
+    <rect class="chip" x="390" y="0" rx="18" ry="18" width="140" height="36" />
+    <text class="text" x="408" y="24">Mistral AI</text>
+    <rect class="chip" x="550" y="0" rx="18" ry="18" width="120" height="36" />
+    <text class="text" x="568" y="24">Pandas</text>
+  </g>
+</svg>

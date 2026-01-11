@@ -7,7 +7,7 @@
 </p>
 
 # Aryan Miriyala
-Worked as a software engineer and a data engineer. I am an AI4SE and cybersecurity researcher at BGSU, and I build web and mobile apps alongside data systems. Outside the terminal, I watch horror movies and keep a running list of game dev ideas.
+Software and data engineer. AI4SE and cybersecurity researcher at BGSU. I build web apps, mobile apps, and data systems. Outside the terminal: horror movies and game dev ideas.
 
 ## Experience
 - Data Engineering Intern, American Association of Insurance Services (2025)
@@ -20,10 +20,10 @@ Worked as a software engineer and a data engineer. I am an AI4SE and cybersecuri
 
 ## Projects
 - FalconGraph Search: campus crawler + RAG search with graph context.
-- DreamScape: mobile microlearning app with audio cues and quizzes.
-- Travel & Health Advisor: map-driven travel health guidance with AI.
-- RocketGrades: LMS with AI grading and chat workflows.
-- Super Mario Reinforcement Learning: PPO/DQN training and evaluation.
+- DreamScape: mobile microlearning with audio cues + quizzes.
+- Travel & Health Advisor: map-driven travel health guidance + AI.
+- RocketGrades: LMS with AI grading + chat workflows.
+- Super Mario RL: PPO/DQN training and evaluation.
 - Yoda — Campus Navigator: Flutter app for campus navigation.
 
 <p align="center">
@@ -31,8 +31,20 @@ Worked as a software engineer and a data engineer. I am an AI4SE and cybersecuri
 </p>
 
 ## Toolbox
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,sql,cpp,c,rust,dart,swift,kotlin,react,nextjs,angular,nodejs,express,reactnative,flutter,tailwind,auth0,aws,postgres,mongodb,mysql,oracle,git,docker&theme=light" alt="Skill icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,sql,cpp,c,rust,dart,swift,kotlin&theme=light" alt="Skill icons" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,reactnative,expo,flutter,tailwind,auth0&theme=light" alt="Skill icons" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=databricks,airflow,bigquery,hive,hadoop,spark,pandas,pytorch,tensorflow,openai&theme=light" alt="Skill icons" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,postgres,mongodb,mysql,oracle&theme=light" alt="Skill icons" />
+</p>
+<p align="center">
+  <img src="assets/toolbox-extras.svg" alt="Additional tools" width="100%" />
 </p>
 
 <p align="center">
@@ -71,7 +83,4 @@ Worked as a software engineer and a data engineer. I am an AI4SE and cybersecuri
 ## GitHub
 <p>
   <img src="https://raw.githubusercontent.com/aryanmiriyala/aryanmiriyala/main/github-metrics.svg" alt="GitHub metrics" />
-</p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanmiriyala&bg_color=e6dccf&color=0f172a&line=0f766e&point=e48763&area=true&area_color=f6c19a&hide_border=true" alt="Activity graph" />
 </p>

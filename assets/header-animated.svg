@@ -10,5 +10,5 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="80" fill="url(#g)" />
-  <rect x="40" y="28" width="1120" height="24" rx="12" fill="#0f766e" fill-opacity="0.12" />
+  <path d="M0 50 C120 35, 240 65, 360 50 C480 35, 600 65, 720 50 C840 35, 960 65, 1200 50" stroke="rgba(15, 118, 110, 0.18)" stroke-width="2.5" fill="none" />
 </svg>
