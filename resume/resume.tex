@@ -1,0 +1,214 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+% OPTIMIZED: Replaced your geometry line with this more aggressive one
+\usepackage[letterpaper, left=0.5in, right=0.5in, top=0.3in, bottom=0.3in]{geometry}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+% OPTIMIZED: Reduced font size from \huge to \LARGE and used negative vspace
+\begin{center}
+    \textbf{\LARGE \scshape Aryan Miriyala} \\ \vspace{-2pt}
+    \small +1 419-315-0444 $|$ 
+    \href{mailto:aryanmiriyala@gmail.com}{\underline{aryanmiriyala@gmail.com}} $|$ 
+    \href{https://www.linkedin.com/in/aryan-miriyala-7788a21b6/}{\underline{linkedin.com/in/aryan-miriyala}} $|$
+    \href{https://github.com/aryanmiriyala}{\underline{github.com/aryanmiriyala}}
+\end{center}
+% OPTIMIZED: More aggressive vspace pull-up
+\vspace{-18pt} % Pulls the "Education" section up
+
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+  % OPTIMIZED: Combined specialization and GPA onto one line
+  \resumeSubheading
+    {Bowling Green State University}{Bowling Green, OH}
+    {Master of Science in Computer Science, \textbf{GPA: 4.00/4.00}}{Aug. 2024 -- May 2026}
+  % OPTIMIZED: Combined honors and GPA onto one line
+  \resumeSubheading
+    {Bowling Green State University}{Bowling Green, OH}
+    {Bachelor of Science in Computer Science, \textbf{GPA: 4.00/4.00}}{Jan. 2021 -- Apr. 2024}
+\resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Data Engineering Intern}{May 2025 -- Aug. 2025}
+      {American Association of Insurance Services}{Lisle, IL}
+      \resumeItemListStart
+        % OPTIMIZED: Bullet 1 (Billing) - Locked.
+        \resumeItem{Automated a 100\% manual SQL billing script by developing a \textbf{PySpark} job and weekly \textbf{AWS Glue Workflow}, processing \textbf{20+ TB} of \textbf{Impala} data to calculate charges for \textbf{700+ member companies}.}
+        
+        % OPTIMIZED: Bullet 2 (Architecture) - Locked.
+        \resumeItem{Architected the 160+ table migration by profiling \textbf{Oracle/Impala} (via \textbf{JDBC}) with \textbf{Python (Pandas)} and \textbf{SQL} to map \textbf{data similarities} and define a \textbf{single data taxonomy} of \textbf{25 MDM domains}.}
+        
+        % OPTIMIZED: Bullet 3 (Implementation) - Locked.
+        \resumeItem{Replaced \textbf{160+ Pentaho jobs} with an automated \textbf{AWS Glue Workflow}, using the new \textbf{MDM domains} and an \textbf{AWS Glue pipeline} to ETL data into \textbf{S3} (partitioned) for \textbf{Semarchy MDM}.}
+        
+        % OPTIMIZED: Bullet 4 (Impact) - NEW. Stronger & clearer.
+        \resumeItem{Orchestrated the daily \textbf{AWS Glue Workflows} to \textbf{enable a new self-service application}, which eliminated manual entry and ensured a \textbf{24-hour data latency} for all new MDM domains.}
+        
+        % OPTIMIZED: Bullet 5 (Validation) - NEW. Tighter & stronger.
+        \resumeItem{Built a \textbf{reverse-ETL} pipeline in \textbf{AWS Glue} for the \textbf{MDM data}, enabling \textbf{accurate data integrity checks}.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Software Engineering Intern}{May 2023 -- May 2024}
+      {American Association of Insurance Services}{Lisle, IL}
+      \resumeItemListStart
+        % OPTIMZED: Bullet 1 - Re-integrated the "scale" metrics (1000s of tables, 10+ lines)
+        \resumeItem{Engineered the \textbf{foundational data model} for \textbf{openIDL} (unified view for insurance data), using \textbf{Python} to parse taxonomies and implement \textbf{1,000s of SQL tables} on \textbf{Oracle/PostgreSQL} across \textbf{10+ insurance lines}.}
+
+        % OPTIMIZED: Bullet 2 (MDM Analysis) - Locked.
+        \resumeItem{Developed a high-performance \textbf{Python} script using \textbf{multiprocessing} and \textbf{Pandas} to clean and parallel-process massive CSVs, implementing \textbf{fuzzy de-duplication} and \textbf{data hashing} for 100\% data compliance.}
+        
+        % OPTIMIZED: Bullet 3 (React) - Locked.
+        \resumeItem{Contributed to a full-stack \textbf{React} modernization by implementing \textbf{Role-Based Access Control (RBAC)} and \textbf{JWT authentication} with \textbf{Node.js} to deliver a secure, role-specific landing page for 100+ internal users.}
+        
+        % OPTIMIZED: Bullet 4 (Lambda) - Locked.
+        \resumeItem{Automated a 2-person validation process by building a \textbf{scheduled AWS Lambda} function that polled database tables, \textbf{tokenized PII using hashlib/boto3}, and ingested clean \textbf{JSON} into S3.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Software Engineering Intern}{May 2022 -- Aug. 2022}
+      {Alliance for Paired Kidney Donation}{Toledo, OH}
+      \resumeItemListStart
+        % OPTIMIZED: Bullet 1 (Security) - 1-Line
+        \resumeItem{Ensured \textbf{HIPAA compliance} by implementing site-wide \textbf{anti-CSRF tokens} for user authentication and protection of patient data.}
+        
+        % OPTIMIZED: Bullet 2 (New Feature) - 1-Line
+        \resumeItem{Built a \textbf{JS/Bootstrap} module to log blood sample data, ensuring data completeness for the matching algorithm.}
+        
+        % OPTIMIZED: Bullet 3 (UI/UX) - 1-Line
+        \resumeItem{Redesigned the responsive \textbf{“Match Run”} results page with \textbf{Bootstrap} to improve readability of donor chains.}
+        
+        % OPTIMIZED: Bullet 4 (Performance) - 1-Line
+        \resumeItem{Reduced page render times by refactoring legacy \textbf{JavaScript} for \textbf{asynchronous (`async`/`defer`)} loading.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+    \resumeProjectHeading
+          {\textbf{Travel Health Advisor} $|$ \emph{React, Node.js (Express), MongoDB, Mistral AI, TailwindCSS}}{[Apr. 2025]}
+          \resumeItemListStart
+            \resumeItem{Developed a full-stack health app using \textbf{React}, \textbf{TailwindCSS}, and \textbf{Express.js} to provide personalized travel health advisories (e.g., disease risk, precautions) based on user health data and destination.}
+            \resumeItem{Engineered a \textbf{RAG} pipeline using \textbf{Mistral AI} and \textbf{HuggingFace} models to vectorize and query a massive \textbf{MongoDB} health database via \textbf{cosine similarity search}, powering all personalized insights.}
+            \resumeItem{Built a \textbf{Mistral AI} chatbot that leveraged the \textbf{RAG} model for conversational insights and generated a dynamic, downloadable travel checklist based on the user's specific health profile.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{RocketGrades} $|$ \emph{Angular, Node.js, Mistral AI, MongoDB, AWS S3, Auth0, TailwindCSS}}{Mar. 2025}
+          \resumeItemListStart
+            % OPTIMIZED: Combined two bullets into one clear "what I built" statement.
+            \resumeItem{Developed a full-stack LMS web app featuring a \textbf{Mistral AI} agent (via \textbf{LangChain}) to provide instant, automated assignment feedback, significantly reducing grading time.}
+            % OPTIMIZED: More technical and specific.
+            \resumeItem{Engineered a secure, scalable backend using \textbf{Node.js}, with \textbf{Auth0} for role-based access control, \textbf{MongoDB Atlas} for data persistence, and \textbf{AWS S3} for file storage.}
+          \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+%
+%-----------PROGRAMMING SKILLS-----------
+% OPTIMIZED: Replaced the tall 15-line table with this dense, 6-line list
+% This saves a massive amount of vertical space.
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, SQL, JavaScript/TypeScript, C++/C, C\#, PHP} \\
+     \textbf{Data Engineering}{: AWS (Glue, S3, Lambda), Spark (PySpark), Impala, Hadoop (HDFS, MapReduce), Semarchy xDM} \\
+     \textbf{Web \& Frameworks}{: React, Angular, Node.js (Express), Pandas, NumPy, LangChain, TensorFlow, PyTorch, TailwindCSS} \\
+     \textbf{Databases \& Tools}{: PostgreSQL, Oracle, MongoDB, MySQL, Git, Docker}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}
