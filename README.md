@@ -1,17 +1,5 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Aryan Miriyala banner" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=1200&color=0F766E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aryan+Miriyala.;AI4SE+researcher+at+BGSU.;Web%2C+mobile%2C+and+data+engineering+in+one+browser+tab." alt="Typing header" />
-</div>
-
 # Aryan Miriyala
 Worked as a software engineer and a data engineer.
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80" alt="Calm landscape" />
-</p>
 
 <table>
   <tr>
