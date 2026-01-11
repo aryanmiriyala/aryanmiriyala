@@ -3,11 +3,11 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=1200&color=0F766E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aryan+Miriyala.;I+automate+the+boring+parts.;Then+I+find+new+boring+parts." alt="Typing header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=1200&color=0F766E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aryan+Miriyala.;AI4SE+researcher+at+BGSU.;I+build+web+and+mobile+apps+plus+data+systems." alt="Typing header" />
 </div>
 
 # Aryan Miriyala
-Software and data engineer who reads the error message after restarting.
+Worked as a software engineer and a data engineer.
 
 <table>
   <tr>
