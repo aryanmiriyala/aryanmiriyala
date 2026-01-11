@@ -16,7 +16,9 @@ jobs:
           user: aryanmiriyala
           filename: github-metrics.svg
           theme: calm
-          base: header, activity, community, repositories, metadata
+          template: classic
+          base: header
           plugin_languages: yes
+          plugin_languages_limit: 5
+          plugin_languages_details: percentage
           plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
