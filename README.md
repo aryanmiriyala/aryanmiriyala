@@ -7,6 +7,10 @@ Software engineer building full-stack products, data platforms, and applied AI s
 
 I am a software engineer with experience across backend systems, data engineering, cloud workflows, and AI-enabled applications. My recent work has focused on shipping production data pipelines at AAIS, building full-stack products, and exploring applied AI through research and product work at Bowling Green State University.
 
+<p align="center">
+  <img src="assets/header-animated.svg" alt="Animated terminal header" width="100%" />
+</p>
+
 <p align="left">
   <a href="https://aryanmiriyala.vercel.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/aryan-miriyala/">LinkedIn</a> •
