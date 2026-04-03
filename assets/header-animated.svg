@@ -13,19 +13,10 @@
   </text>
 
   <text x="34" y="92" fill="#A5B4FC" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
-    backend systems
-    <animate attributeName="opacity" values="0;0;1;1;1;0;0" dur="9s" repeatCount="indefinite" />
-  </text>
-  <text x="34" y="92" fill="#34D399" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
-    data pipelines
-    <animate attributeName="opacity" values="0;0;0;1;1;1;0" dur="9s" repeatCount="indefinite" />
-  </text>
-  <text x="34" y="92" fill="#FBBF24" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
-    applied ai products
-    <animate attributeName="opacity" values="0;0;0;0;1;1;1" dur="9s" repeatCount="indefinite" />
+    backend systems + data pipelines + applied ai
   </text>
 
-  <text x="292" y="92" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
+  <text x="538" y="92" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16">
     <tspan opacity="0.96">_</tspan>
     <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite" />
   </text>

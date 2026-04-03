@@ -5,7 +5,7 @@
 # Aryan Miriyala
 Software engineer building full-stack products, data platforms, and applied AI systems.
 
-I am a software engineer with experience across backend systems, data engineering, cloud workflows, and AI-enabled applications. My recent work has focused on shipping production data pipelines at AAIS, building full-stack products, and exploring applied AI through research and product work at Bowling Green State University.
+I build backend systems, production data workflows, and AI-enabled applications. Recent work spans cloud data engineering at AAIS, full-stack product development, and applied research at Bowling Green State University.
 
 <p align="center">
   <img src="assets/header-animated.svg" alt="Animated terminal header" width="100%" />
@@ -22,15 +22,7 @@ I am a software engineer with experience across backend systems, data engineerin
 - Building reliable backend and data systems with `Python`, `SQL`, `PySpark`, `AWS Glue`, and `Node.js`
 - Shipping full-stack applications with `React`, `Next.js`, `Angular`, `MongoDB`, and `PostgreSQL`
 - Designing practical AI features with `RAG`, `OpenAI API`, `LangChain`, `Mistral AI`, and retrieval pipelines
-- Interested in software engineering roles spanning backend, platform, data, and applied AI
-
-## Experience
-- American Association of Insurance Services, Data Engineering Intern
-  Automated billing and ETL workflows over 20+ TB of data, replacing manual processes and supporting 700+ member companies.
-- American Association of Insurance Services, Software Engineering Intern
-  Built internal platform features across data modeling, backend automation, RBAC, and React-based application workflows.
-- Alliance for Paired Kidney Donation, Software Engineering Intern
-  Delivered security and frontend improvements for HIPAA-sensitive donor matching software.
+- Working mostly in `Python` and `TypeScript`, with contributions across 24 repositories
 
 ## Engineering Highlights
 - Automated a fully manual billing workflow using `PySpark` and `AWS Glue`, processing 20+ TB of insurance data
@@ -45,8 +37,6 @@ I am a software engineer with experience across backend systems, data engineerin
   LMS-style application with AI-assisted grading, role-aware workflows, and file-backed assignment feedback.
 - Travel Health Advisor
   Full-stack health platform that generates destination-aware guidance and personalized travel checklists.
-- Super Mario RL
-  Reinforcement learning project comparing PPO and DQN agents in interactive game environments.
 
 ## Stack
 - Languages: `Python` `TypeScript` `JavaScript` `SQL` `C++` `Rust`
@@ -55,18 +45,6 @@ I am a software engineer with experience across backend systems, data engineerin
 - Data: `PySpark` `Pandas` `Airflow` `Databricks` `AWS Glue` `Impala`
 - AI: `OpenAI API` `LangChain` `Mistral AI` `SentenceTransformers` `PyTorch`
 - Cloud and storage: `AWS` `S3` `Lambda` `Docker` `PostgreSQL` `MongoDB` `MySQL` `Oracle`
-
-## Education
-- M.S. in Computer Science, Software Engineering
-  Bowling Green State University, expected 2026
-- B.S. in Computer Science
-  Bowling Green State University, 2024
-
-## Contact
-- Portfolio: https://aryanmiriyala.vercel.app
-- LinkedIn: https://www.linkedin.com/in/aryan-miriyala/
-- Email: aryanmiriyala@gmail.com
-- Resume: resume/resume.pdf
 
 ## GitHub
 <p>
