@@ -2,14 +2,10 @@
   <img src="assets/banner-static.svg" alt="Aryan Miriyala banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/header-animated.svg" alt="Animated header" width="100%" />
-</p>
-
 # Aryan Miriyala
-Software engineer and data engineer focused on building production-grade applications, AI-enabled products, and scalable data systems.
+Software engineer building full-stack products, data platforms, and applied AI systems.
 
-Currently pursuing an M.S. in Computer Science at Bowling Green State University, with experience across data engineering at AAIS, full-stack product development, and applied AI research in AI4SE and cybersecurity.
+I am a software engineer with experience across backend systems, data engineering, cloud workflows, and AI-enabled applications. My recent work has focused on shipping production data pipelines at AAIS, building full-stack products, and exploring applied AI through research and product work at Bowling Green State University.
 
 <p align="left">
   <a href="https://aryanmiriyala.vercel.app">Portfolio</a> •
@@ -18,51 +14,43 @@ Currently pursuing an M.S. in Computer Science at Bowling Green State University
   <a href="mailto:aryanmiriyala@gmail.com">Email</a>
 </p>
 
-## What I Work On
-- Data engineering pipelines and platform automation with `PySpark`, `AWS Glue`, `SQL`, and cloud data tooling
-- Full-stack product development with `React`, `Next.js`, `Angular`, `Node.js`, and modern API architectures
-- Applied AI systems including `RAG`, LLM integrations, evaluation workflows, and search experiences
+## Focus
+- Building reliable backend and data systems with `Python`, `SQL`, `PySpark`, `AWS Glue`, and `Node.js`
+- Shipping full-stack applications with `React`, `Next.js`, `Angular`, `MongoDB`, and `PostgreSQL`
+- Designing practical AI features with `RAG`, `OpenAI API`, `LangChain`, `Mistral AI`, and retrieval pipelines
+- Interested in software engineering roles spanning backend, platform, data, and applied AI
 
 ## Experience
-- Data Engineering Intern, American Association of Insurance Services
-  Built AWS Glue and PySpark workflows over 20+ TB of insurance data, automated billing for 700+ member companies, and supported a 160+ table migration into a new MDM architecture.
-- Software Engineering Intern, American Association of Insurance Services
-  Worked across backend systems, data modeling, RBAC-enabled React applications, and AWS automation for internal products and insurance data platforms.
-- Software Engineering Intern, Alliance for Paired Kidney Donation
-  Improved HIPAA-sensitive workflows by shipping frontend and security improvements for donor-matching software.
+- American Association of Insurance Services, Data Engineering Intern
+  Automated billing and ETL workflows over 20+ TB of data, replacing manual processes and supporting 700+ member companies.
+- American Association of Insurance Services, Software Engineering Intern
+  Built internal platform features across data modeling, backend automation, RBAC, and React-based application workflows.
+- Alliance for Paired Kidney Donation, Software Engineering Intern
+  Delivered security and frontend improvements for HIPAA-sensitive donor matching software.
 
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
-</p>
+## Engineering Highlights
+- Automated a fully manual billing workflow using `PySpark` and `AWS Glue`, processing 20+ TB of insurance data
+- Supported a 160+ table migration by profiling legacy systems and helping define a unified MDM taxonomy
+- Replaced 160+ Pentaho jobs with AWS-based ETL workflows feeding partitioned data into `S3` and Semarchy MDM
+- Built secure application features using `React`, `Node.js`, `JWT`, and role-based access control for internal users
 
-## Selected Projects
+## Featured Work
 - FalconGraph Search
-  Search and retrieval system combining campus crawling, graph-aware context, and RAG-based answer generation.
-- Travel Health Advisor
-  Full-stack travel health platform using `React`, `Express`, `MongoDB`, and LLM-backed retrieval to generate personalized advisories and checklists.
+  Campus search and retrieval system combining crawling, graph context, and RAG-based answer generation.
 - RocketGrades
-  LMS-style web app with AI-assisted grading, role-based access control, file workflows, and conversational feedback for assignments.
-- DreamScape
-  Mobile learning experience designed around short-form lessons, audio cues, and quiz-driven reinforcement.
+  LMS-style application with AI-assisted grading, role-aware workflows, and file-backed assignment feedback.
+- Travel Health Advisor
+  Full-stack health platform that generates destination-aware guidance and personalized travel checklists.
 - Super Mario RL
-  Reinforcement learning experiments comparing PPO and DQN agents in game environments.
-- Yoda Campus Navigator
-  Flutter-based navigation app focused on campus wayfinding and mobile UX.
+  Reinforcement learning project comparing PPO and DQN agents in interactive game environments.
 
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
-</p>
-
-## Technical Focus
-- Languages: `Python` `TypeScript` `JavaScript` `SQL` `C++` `Rust` `Dart`
-- Frontend and mobile: `React` `Next.js` `Angular` `React Native` `Expo` `Flutter` `Tailwind CSS`
-- Backend and data: `Node.js` `Express` `PySpark` `Pandas` `Airflow` `Databricks` `AWS Glue` `Impala`
-- AI and ML: `OpenAI API` `LangChain` `Mistral AI` `SentenceTransformers` `PyTorch` `TensorFlow`
-- Cloud and databases: `AWS` `S3` `Lambda` `Docker` `PostgreSQL` `MongoDB` `MySQL` `Oracle`
-
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
-</p>
+## Stack
+- Languages: `Python` `TypeScript` `JavaScript` `SQL` `C++` `Rust`
+- Backend: `Node.js` `Express` `REST APIs` `JWT` `Auth0`
+- Frontend: `React` `Next.js` `Angular` `Tailwind CSS` `Flutter`
+- Data: `PySpark` `Pandas` `Airflow` `Databricks` `AWS Glue` `Impala`
+- AI: `OpenAI API` `LangChain` `Mistral AI` `SentenceTransformers` `PyTorch`
+- Cloud and storage: `AWS` `S3` `Lambda` `Docker` `PostgreSQL` `MongoDB` `MySQL` `Oracle`
 
 ## Education
 - M.S. in Computer Science, Software Engineering
@@ -70,19 +58,11 @@ Currently pursuing an M.S. in Computer Science at Bowling Green State University
 - B.S. in Computer Science
   Bowling Green State University, 2024
 
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
-</p>
-
 ## Contact
 - Portfolio: https://aryanmiriyala.vercel.app
 - LinkedIn: https://www.linkedin.com/in/aryan-miriyala/
 - Email: aryanmiriyala@gmail.com
 - Resume: resume/resume.pdf
-
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
-</p>
 
 ## GitHub
 <p>
