@@ -75,8 +75,3 @@ travel-health-advisor/
   "cloud": ["AWS", "S3", "Lambda", "Docker", "PostgreSQL", "MongoDB", "MySQL", "Oracle"]
 }
 ```
-
-## GitHub
-<p>
-  <img src="https://raw.githubusercontent.com/aryanmiriyala/aryanmiriyala/main/github-metrics.svg" alt="GitHub metrics" />
-</p>
