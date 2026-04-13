@@ -47,5 +47,6 @@ const summary = [
 ];
 
 const markdown = summary.join("\n");
+fs.mkdirSync(new URL("../generated/", import.meta.url), { recursive: true });
 fs.writeFileSync(outputPath, `${markdown}\n`);
 updateReadme("recent-activity", markdown);
