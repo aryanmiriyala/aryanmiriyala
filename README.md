@@ -53,16 +53,11 @@ Python • TypeScript • Node.js • React • PySpark • AWS Glue • Postgre
 </table>
 
 ### `featured_work/`
+<!-- featured-projects:start -->
 ```txt
-falcongraph-search/
-  graph-aware campus search + RAG answer generation
-
-rocketgrades/
-  LMS workflows + AI-assisted grading + role-aware access
-
-travel-health-advisor/
-  personalized travel health guidance + retrieval-backed checklist generation
+featured projects will be refreshed by GitHub Actions
 ```
+<!-- featured-projects:end -->
 
 ### `toolchain.json`
 ```json
@@ -75,3 +70,8 @@ travel-health-advisor/
   "cloud": ["AWS", "S3", "Lambda", "Docker", "PostgreSQL", "MongoDB", "MySQL", "Oracle"]
 }
 ```
+
+### `recent_activity.log`
+<!-- recent-activity:start -->
+- activity summary will be refreshed by GitHub Actions
+<!-- recent-activity:end -->

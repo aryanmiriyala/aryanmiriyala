@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "repo": "aryanmiriyala/falcongraph-search",
+      "summary": "graph-aware campus search + RAG answer generation"
+    },
+    {
+      "repo": "aryanmiriyala/rocketgrades",
+      "summary": "LMS workflows + AI-assisted grading + role-aware access"
+    },
+    {
+      "repo": "aryanmiriyala/travel-health-advisor",
+      "summary": "personalized travel health guidance + retrieval-backed checklist generation"
+    }
+  ]
+}

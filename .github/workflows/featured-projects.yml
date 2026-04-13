@@ -1,0 +1,34 @@
+name: Featured Projects
+
+on:
+  schedule:
+    - cron: "0 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  featured-projects:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Refresh featured projects
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/update-featured-projects.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md generated/featured-projects.md
+          git diff --cached --quiet || git commit -m "Refresh featured projects"
+          git push
