@@ -21,14 +21,14 @@
     <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite" />
   </text>
 
-  <rect x="832" y="48" width="320" height="56" rx="10" fill="#111827" stroke="#334155" />
-  <text x="856" y="71" fill="#93C5FD" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13">
+  <rect x="820" y="40" width="344" height="80" rx="12" fill="#111827" stroke="#334155" stroke-width="1.5" />
+  <text x="844" y="66" fill="#93C5FD" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5">
     stack.push("React")
   </text>
-  <text x="856" y="89" fill="#86EFAC" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13">
+  <text x="844" y="88" fill="#86EFAC" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5">
     stack.push("PySpark")
   </text>
-  <text x="856" y="107" fill="#FCD34D" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13">
+  <text x="844" y="110" fill="#FCD34D" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5">
     stack.push("OpenAI API")
   </text>
 </svg>
