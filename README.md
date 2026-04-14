@@ -54,9 +54,9 @@ Python • TypeScript • Node.js • React • PySpark • AWS Glue • Postgre
 
 ### `featured_work/`
 <!-- featured-projects:start -->
-```txt
-featured projects will be refreshed by GitHub Actions
-```
+- [`falcongraph-search`](https://github.com/aryanmiriyala/falcongraph-search) - graph-aware campus search + RAG answer generation
+- [`rocketgrades`](https://github.com/aryanmiriyala/rocketgrades) - LMS workflows + AI-assisted grading + role-aware access
+- [`travel-health-advisor`](https://github.com/aryanmiriyala/travel-health-advisor) - personalized travel health guidance + retrieval-backed checklist generation
 <!-- featured-projects:end -->
 
 ### `toolchain.json`
