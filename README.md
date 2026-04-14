@@ -70,14 +70,3 @@ Python • TypeScript • Node.js • React • PySpark • AWS Glue • Postgre
   "cloud": ["AWS", "S3", "Lambda", "Docker", "PostgreSQL", "MongoDB", "MySQL", "Oracle"]
 }
 ```
-
-### `recent_activity.log`
-<!-- recent-activity:start -->
-- Public activity across 1 repos in recent events
-- Pushed 0 commits to `aryanmiriyala/aryanmiriyala` on `main` (Apr 14, 2026)
-- Pushed 0 commits to `aryanmiriyala/aryanmiriyala` on `main` (Apr 13, 2026)
-- Pushed 0 commits to `aryanmiriyala/aryanmiriyala` on `main` (Apr 13, 2026)
-- Pushed 0 commits to `aryanmiriyala/aryanmiriyala` on `main` (Apr 11, 2026)
-- Pushed 0 commits to `aryanmiriyala/aryanmiriyala` on `main` (Apr 10, 2026)
-- Pushed 0 commits to `aryanmiriyala/aryanmiriyala` on `main` (Apr 9, 2026)
-<!-- recent-activity:end -->
