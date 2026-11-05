@@ -1,16 +1,16 @@
 {
   "projects": [
     {
-      "repo": "aryanmiriyala/falcongraph-search",
-      "summary": "graph-aware campus search + RAG answer generation"
+      "repo": "aryanmiriyala/TachyonMesh",
+      "summary": "cloud-native Go microservice on Kubernetes with Envoy routing and Prometheus/Grafana observability"
     },
     {
-      "repo": "aryanmiriyala/rocketgrades",
-      "summary": "LMS workflows + AI-assisted grading + role-aware access"
+      "repo": "aryanmiriyala/DiskScope",
+      "summary": "macOS Swift app for plain-English disk usage analysis"
     },
     {
-      "repo": "aryanmiriyala/travel-health-advisor",
-      "summary": "personalized travel health guidance + retrieval-backed checklist generation"
+      "repo": "aryanmiriyala/agent-sync",
+      "summary": "Git-backed sync for AI agent skills/rules/MCP servers across Claude Code, Cursor and Codex"
     }
   ]
 }
