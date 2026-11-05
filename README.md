@@ -13,6 +13,11 @@
   <a href="mailto:aryanmiriyala@gmail.com">email</a>
 </p>
 
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
+
 ```bash
 $ whoami
 Aryan Miriyala
@@ -37,7 +42,7 @@ Python • TypeScript • Node.js • React • PySpark • AWS Glue • Postgre
 - Automated a manual billing workflow over `20+ TB` of data with `PySpark` and `AWS Glue`
 - Helped migrate `160+` legacy jobs into AWS-based ETL and partitioned `S3` pipelines
 - Built secure internal app workflows with `React`, `Node.js`, `JWT`, and RBAC
-- Contributed across `24 repositories`, working mostly in `Python` and `TypeScript`
+- Contributed across dozens of repositories, working mostly in `Python` and `TypeScript`
 
     </td>
     <td valign="top" width="50%">
@@ -54,9 +59,9 @@ Python • TypeScript • Node.js • React • PySpark • AWS Glue • Postgre
 
 ### `featured_work/`
 <!-- featured-projects:start -->
-- [`falcongraph-search`](https://github.com/aryanmiriyala/falcongraph-search) - graph-aware campus search + RAG answer generation
-- [`rocketgrades`](https://github.com/aryanmiriyala/rocketgrades) - LMS workflows + AI-assisted grading + role-aware access
-- [`travel-health-advisor`](https://github.com/aryanmiriyala/travel-health-advisor) - personalized travel health guidance + retrieval-backed checklist generation
+- [`TachyonMesh`](https://github.com/aryanmiriyala/TachyonMesh) - cloud-native Go microservice on Kubernetes with Envoy routing and Prometheus/Grafana observability | Go | 0 stars | updated Sep 30, 2026
+- [`DiskScope`](https://github.com/aryanmiriyala/DiskScope) - macOS Swift app for plain-English disk usage analysis | Swift | 0 stars | updated Oct 22, 2026
+- [`agent-sync`](https://github.com/aryanmiriyala/agent-sync) - Git-backed sync for AI agent skills/rules/MCP servers across Claude Code, Cursor and Codex | n/a | 0 stars | updated Jul 9, 2026
 <!-- featured-projects:end -->
 
 ### `toolchain.json`

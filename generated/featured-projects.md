@@ -1,3 +1,3 @@
-- [`falcongraph-search`](https://github.com/aryanmiriyala/falcongraph-search) - graph-aware campus search + RAG answer generation
-- [`rocketgrades`](https://github.com/aryanmiriyala/rocketgrades) - LMS workflows + AI-assisted grading + role-aware access
-- [`travel-health-advisor`](https://github.com/aryanmiriyala/travel-health-advisor) - personalized travel health guidance + retrieval-backed checklist generation
+- [`TachyonMesh`](https://github.com/aryanmiriyala/TachyonMesh) - cloud-native Go microservice on Kubernetes with Envoy routing and Prometheus/Grafana observability | Go | 0 stars | updated Sep 30, 2026
+- [`DiskScope`](https://github.com/aryanmiriyala/DiskScope) - macOS Swift app for plain-English disk usage analysis | Swift | 0 stars | updated Oct 22, 2026
+- [`agent-sync`](https://github.com/aryanmiriyala/agent-sync) - Git-backed sync for AI agent skills/rules/MCP servers across Claude Code, Cursor and Codex | n/a | 0 stars | updated Jul 9, 2026
